@@ -24,5 +24,14 @@ namespace WindowsFormsApp2
             textBox1.AutoCompleteSource = AutoCompleteSource.CustomSource; 
             textBox1.AutoCompleteCustomSource = sc;
         }
+
+        private void textBox1_Validating(object sender, CancelEventArgs e)
+        {
+            int n = int.Parse(textBox1.Text);
+            if (n < 0)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
