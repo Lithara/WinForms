@@ -16,5 +16,13 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            AutoCompleteStringCollection sc = new AutoCompleteStringCollection();
+            sc.AddRange(new string[] { "One", "One Hundred", "Two", "Two demos" });
+            textBox1.AutoCompleteSource = AutoCompleteSource.CustomSource; 
+            textBox1.AutoCompleteCustomSource = sc;
+        }
     }
 }
