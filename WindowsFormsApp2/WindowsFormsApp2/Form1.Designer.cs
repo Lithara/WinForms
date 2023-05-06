@@ -33,8 +33,13 @@
             // 
             // textBox1
             // 
+            this.textBox1.AutoCompleteCustomSource.AddRange(new string[] {
+            "One",
+            "Once",
+            "Two",
+            "Twice"});
             this.textBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.textBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.FileSystem;
+            this.textBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.textBox1.Location = new System.Drawing.Point(90, 62);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
