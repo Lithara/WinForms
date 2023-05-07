@@ -21,5 +21,20 @@ namespace WindowsFormsApp3
         {
             label1.Text = "Hello World";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Blue;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.BackColor = Color.Yellow;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.BackColor = Color.Red;
+        }
     }
 }
