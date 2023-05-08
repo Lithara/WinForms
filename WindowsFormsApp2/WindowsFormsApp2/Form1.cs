@@ -33,5 +33,15 @@ namespace WindowsFormsApp2
                 e.Cancel = true;
             }
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Saved");
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Cancelled");
+        }
     }
 }
