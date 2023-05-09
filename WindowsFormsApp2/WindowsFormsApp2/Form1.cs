@@ -44,7 +44,25 @@ namespace WindowsFormsApp2
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Cancelled");
+            //MessageBox.Show("Cancelled");
+            InsertDummyValidData();
+            this.Close();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            textBox1.Text = "1";
+            e.Cancel = false;
+        }
+
+        public void InsertDummyValidData()
+        {
+            textBox1.Text = "1";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
