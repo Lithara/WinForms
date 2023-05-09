@@ -31,7 +31,10 @@ namespace WindowsFormsApp2
             if (n < 0)
             {
                 e.Cancel = true;
+                errorProvider1.SetError(textBox1, "Value must be less than 100");
             }
+            else
+                errorProvider1.SetError(textBox1, "");
         }
 
         private void btnSave_Click(object sender, EventArgs e)
