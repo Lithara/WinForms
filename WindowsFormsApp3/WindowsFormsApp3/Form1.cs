@@ -12,6 +12,8 @@ namespace WindowsFormsApp3
 {
     public partial class Form1 : Form
     {
+        private int clickCount = 0;
+
         public Form1()
         {
             InitializeComponent();
@@ -20,6 +22,27 @@ namespace WindowsFormsApp3
         private void label1_Click(object sender, EventArgs e)
         {
             label1.Text = "Hello World";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Blue;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.BackColor = Color.Yellow;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.BackColor = Color.Red;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            clickCount++;
+            label2.Text = clickCount + " times";
         }
     }
 }
