@@ -19,19 +19,66 @@ namespace WindowsFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string Name = textBox1.Text;
-            string Batch = textBox3.Text;
-            string Degree = textBox2.Text;
+            int n1 = int.Parse(textBox1.Text);
+            int n2 = int.Parse(textBox3.Text);
 
-            label4.Text = "Hey " + Name + "! " + "You're from " + Batch + ". " + "Your degree is " + Degree + "."; 
+            int sum = n1 + n2;
+            
+            
+           
+
+            label5.Text = "Summation : " + sum; 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label4.Text = "";
+            label5.Text = "";
             textBox1.Text = "";
-            textBox2.Text = "";
             textBox3.Text = "";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+                    }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int n1 = int.Parse(textBox1.Text);
+            int n2 = int.Parse(textBox3.Text);
+
+            int sub = n1 - n2;
+
+            label5.Text = "Substraction : " + sub;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int n1 = int.Parse(textBox1.Text);
+            int n2 = int.Parse(textBox3.Text);
+
+            int mul = n1 * n2;
+
+            label5.Text = "Multiplication : " + mul;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int n1 = int.Parse(textBox1.Text);
+            int n2 = int.Parse(textBox3.Text);
+
+            int div = n1 / n2;
+
+            label5.Text = "Division : " + div;
         }
     }
 }
