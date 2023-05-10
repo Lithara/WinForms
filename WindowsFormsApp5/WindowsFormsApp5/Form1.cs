@@ -73,10 +73,10 @@ namespace WindowsFormsApp5
 
         private void button5_Click(object sender, EventArgs e)
         {
-            int n1 = int.Parse(textBox1.Text);
-            int n2 = int.Parse(textBox3.Text);
+            double n1 = double.Parse(textBox1.Text);
+            double n2 = double.Parse(textBox3.Text);
 
-            int div = n1 / n2;
+            double div = n1 / n2;
 
             label5.Text = "Division : " + div;
         }
