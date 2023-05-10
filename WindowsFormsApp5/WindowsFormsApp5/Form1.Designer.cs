@@ -107,9 +107,8 @@
             this.label4.Font = new System.Drawing.Font("Montserrat", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(60, 262);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(105, 39);
+            this.label4.Size = new System.Drawing.Size(0, 39);
             this.label4.TabIndex = 7;
-            this.label4.Text = "label4";
             // 
             // button2
             // 

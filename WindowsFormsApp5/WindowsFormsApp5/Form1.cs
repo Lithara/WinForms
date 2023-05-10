@@ -29,6 +29,9 @@ namespace WindowsFormsApp5
         private void button2_Click(object sender, EventArgs e)
         {
             label4.Text = "";
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
         }
     }
 }
