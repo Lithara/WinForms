@@ -21,15 +21,23 @@ namespace WindowsFormsApp6
         {
             Form2 objHome = new Form2();
 
+            string fromUn = textBox1.Text;
+            string fromPw = textBox2.Text;
+
             string un = "Admin";
             string pw = "admin123";
 
-            if (textBox1.Text == un && textBox2.Text == pw)
+            if (fromUn == un && fromPw == pw)
             {
                 objHome.Show();
                 this.Hide();
             }
-
+            else
+            {
+                
+                textBox1.Text = "";
+                textBox2.Text = "";
+            }
             
         }
     }
