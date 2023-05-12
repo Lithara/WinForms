@@ -20,8 +20,17 @@ namespace WindowsFormsApp6
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 objHome = new Form2();
-            this.Hide();
-            objHome.Show();
+
+            string un = "Admin";
+            string pw = "admin123";
+
+            if (textBox1.Text == un && textBox2.Text == pw)
+            {
+                objHome.Show();
+                this.Hide();
+            }
+
+            
         }
     }
 }
