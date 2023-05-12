@@ -1,0 +1,12 @@
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Studies\C# project\WinForms\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
