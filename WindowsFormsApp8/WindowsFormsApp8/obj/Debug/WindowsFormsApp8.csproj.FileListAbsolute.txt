@@ -1,0 +1,15 @@
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\Guna.UI.dll
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\System.Data.SqlClient.dll
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\System.Data.SqlClient.xml
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CopyComplete
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Studies\C# project\WinForms\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
