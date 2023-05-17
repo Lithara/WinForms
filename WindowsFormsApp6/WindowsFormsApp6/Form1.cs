@@ -34,7 +34,7 @@ namespace WindowsFormsApp6
             }
             else
             {
-                
+                MessageBox.Show("Incorrect Username or Password!");
                 textBox1.Text = "";
                 textBox2.Text = "";
             }
