@@ -1,0 +1,14 @@
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.exe.config
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.exe
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\bin\Debug\ControlsDemoApp.pdb
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.AssemblyReference.cache
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.SuggestedBindingRedirects.cache
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.Properties.Resources.resources
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.GenerateResource.cache
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.CoreCompileInputs.cache
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.exe
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.pdb
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\bin\Debug\Guna.UI.dll
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.ControlsDemoForm.resources
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.Form1.resources
+C:\Studies\C# project\WinForms\ControlsDemoApp\ControlsDemoApp\obj\Debug\ControlsDemoApp.csproj.CopyComplete
