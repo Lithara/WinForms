@@ -48,7 +48,14 @@ namespace ControlsDemoApp
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Cancelled");
+            gunaTextBox1.Text = "1";
+            this.Close();
+            //MessageBox.Show("Cancelled");
+        }
+
+        private void ControlsDemoForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            gunaTextBox1.Text = "1";
         }
     }
 }

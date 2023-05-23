@@ -147,6 +147,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.gunaTextBox3);
             this.Controls.Add(this.gunaTextBox2);
@@ -155,6 +156,7 @@
             this.Controls.Add(this.btnCancel);
             this.Name = "ControlsDemoForm";
             this.Text = "ControlsDemoForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ControlsDemoForm_FormClosing);
             this.Load += new System.EventHandler(this.ControlsDemoForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
