@@ -16,5 +16,13 @@ namespace ControlsDemoApp
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            AutoCompleteStringCollection sc = new AutoCompleteStringCollection();
+            sc.AddRange(new string[] { "One", "One Hundred", "Two", "Two demos" });
+            gunaTextBox1.AutoCompleteCustomSource = sc;
+            gunaTextBox1.AutoCompleteSource = AutoCompleteSource.CustomSource;
+        }
     }
 }

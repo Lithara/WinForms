@@ -21,5 +21,24 @@ namespace ControlsDemoApp
         {
 
         }
+
+        private void gunaTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gunaTextBox1_Validating(object sender, CancelEventArgs e)
+        {
+            int n = int.Parse(gunaTextBox1.Text);
+            if (n > 100)
+            {
+                e.Cancel = true;
+                errorProvider1.SetError(gunaTextBox1, "Value must be less than 100");
+            }
+            else
+            {
+                errorProvider1.SetError(gunaTextBox1, "");
+            }
+        }
     }
 }
