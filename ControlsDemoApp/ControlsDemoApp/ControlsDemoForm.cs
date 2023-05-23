@@ -48,14 +48,21 @@ namespace ControlsDemoApp
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            gunaTextBox1.Text = "1";
+            InsertDummyValidData();
             this.Close();
             //MessageBox.Show("Cancelled");
         }
 
         private void ControlsDemoForm_FormClosing(object sender, FormClosingEventArgs e)
         {
+            InsertDummyValidData();
+            e.Cancel = false;
+        }
+
+        public void InsertDummyValidData()
+        {
             gunaTextBox1.Text = "1";
+
         }
     }
 }
