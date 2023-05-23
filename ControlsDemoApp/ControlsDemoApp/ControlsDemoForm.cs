@@ -40,5 +40,15 @@ namespace ControlsDemoApp
                 errorProvider1.SetError(gunaTextBox1, "");
             }
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Saved");
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Cancelled");
+        }
     }
 }
