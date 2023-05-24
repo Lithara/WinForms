@@ -64,5 +64,10 @@ namespace ControlsDemoApp
             gunaTextBox1.Text = "1";
 
         }
+
+        private void gunaButton1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -1,0 +1,13 @@
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\bin\Debug\InClassTest.exe.config
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\bin\Debug\InClassTest.exe
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\bin\Debug\InClassTest.pdb
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\bin\Debug\Guna.UI.dll
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.AssemblyReference.cache
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.SuggestedBindingRedirects.cache
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.Form1.resources
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.Properties.Resources.resources
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.GenerateResource.cache
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.CoreCompileInputs.cache
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.csproj.CopyComplete
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.exe
+C:\Studies\C# project\WinForms\InClassTest\InClassTest\obj\Debug\InClassTest.pdb
