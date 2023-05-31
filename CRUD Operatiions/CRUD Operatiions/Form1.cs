@@ -39,14 +39,15 @@ namespace CRUD_Operatiions
             //handling exceptions
             try
             {
-                con.Open();
+                con.Open(); //opening the connections
+                cmd.ExecuteNonQuery(); //executing the query
+                MessageBox.Show("Your ID has submitted.");
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message.ToString());
             }
 
-            MessageBox.Show("Your ID has submitted.");
             this.Close();   
         }
     }
