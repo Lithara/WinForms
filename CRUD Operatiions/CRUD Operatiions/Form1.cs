@@ -36,9 +36,18 @@ namespace CRUD_Operatiions
             //creating the command
             SqlCommand cmd = new SqlCommand(qry, con);
 
+            //handling exceptions
+            try
+            {
+                con.Open();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message.ToString());
+            }
+
             MessageBox.Show("Your ID has submitted.");
-            this.Close();
-            
+            this.Close();   
         }
     }
 }
