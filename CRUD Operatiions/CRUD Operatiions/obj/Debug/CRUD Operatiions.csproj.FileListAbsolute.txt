@@ -1,0 +1,13 @@
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\bin\Debug\CRUD Operatiions.exe.config
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\bin\Debug\CRUD Operatiions.exe
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\bin\Debug\CRUD Operatiions.pdb
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\bin\Debug\Guna.UI.dll
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.csproj.AssemblyReference.cache
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.csproj.SuggestedBindingRedirects.cache
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD_Operatiions.Form1.resources
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD_Operatiions.Properties.Resources.resources
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.csproj.GenerateResource.cache
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.csproj.CoreCompileInputs.cache
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.csproj.CopyComplete
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.exe
+C:\Studies\C# project\WinForms\CRUD Operatiions\CRUD Operatiions\obj\Debug\CRUD Operatiions.pdb
