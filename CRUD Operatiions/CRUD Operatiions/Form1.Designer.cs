@@ -82,6 +82,7 @@
             this.btnSubmit.TabIndex = 2;
             this.btnSubmit.Text = "Submit";
             this.btnSubmit.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
             // 
             // Form1
             // 
